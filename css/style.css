@@ -9704,9 +9704,9 @@ textarea.form-control {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
 
-    /* ===== Custom icons for Kaggle and LeetCode in yellow theme ===== */
+/* ===== Custom icons for Kaggle and LeetCode in yellow theme ===== */
 .social-icon-yellow {
-    background-color: #222; /* same circle style as other icons */
+    background-color: #222; /* dark circle like others */
     border-radius: 50%;
     width: 40px;
     height: 40px;
