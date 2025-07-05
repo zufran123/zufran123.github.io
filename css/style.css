@@ -9704,9 +9704,9 @@ textarea.form-control {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
 
-.icon-circle {
-  background-color: #222;
-  color: #ffb400; /* golden yellow */
+.social-icon {
+  background-color: #222; /* dark bg */
+  color: #ffb400;          /* golden like YouTube/Twitter */
   border-radius: 50%;
   width: 40px;
   height: 40px;
@@ -9717,8 +9717,8 @@ textarea.form-control {
   transition: all 0.3s ease;
 }
 
-.icon-circle:hover {
-  background-color: #ffb400;
-  color: #000;
+.social-icon:hover {
+  background-color: #ffb400;  /* golden bg on hover */
+  color: #000;                /* icon becomes black */
   transform: translateY(-5px);
 }
