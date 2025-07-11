@@ -15,9 +15,10 @@ It highlights my skills, professional journey, and selected projects.
 
 ## 🧠 Projects Featured
 
-1. **Customer Churn Analysis**
-2. **Loan Default Risk Prediction**
-3. **E-Learning Platform Analysis**
+1. [**Customer Churn Analysis**](https://github.com/zufran123/customer-churn-analysis)
+2. [**Loan Default Risk Prediction**](https://github.com/zufran123/loan-default-analysis)
+3. [**E-Learning Platform Analysis**](https://github.com/zufran123/e-learning-analysis)
+
 
 These projects reflect my practical experience in **data science**, **machine learning**, and **real-world business insights**.
 
@@ -42,6 +43,9 @@ These projects reflect my practical experience in **data science**, **machine le
 
 ---
 
-## 📜 License
+## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This Open Source Software is licensed under the **MIT License**.  
+Please give proper credit by including the license and attributing the original author.
+
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
