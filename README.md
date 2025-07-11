@@ -1,8 +1,8 @@
 # 🌐 Personal Portfolio Website
 
-[![GitHub stars](https://img.shields.io/github/stars/zufran123/portfolio?style=flat-square)](https://github.com/zufran123/portfolio/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/zufran123/portfolio?style=flat-square)](https://github.com/zufran123/portfolio/network/members)
-[![Last Commit](https://img.shields.io/github/last-commit/zufran123/portfolio?style=flat-square)](https://github.com/zufran123/portfolio/commits)
+[![GitHub stars](https://img.shields.io/github/stars/zufran123/zufran123.github.io?style=flat-square)](https://github.com/zufran123/zufran123.github.io/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/zufran123/zufran123.github.io?style=flat-square)](https://github.com/zufran123/zufran123.github.io/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/zufran123/zufran123.github.io?style=flat-square)](https://github.com/zufran123/zufran123.github.io/commits)
 
 ---
 
